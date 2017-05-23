@@ -12,4 +12,4 @@ Auto Loop Open and Close URL with Incognito Mode on Google Chrome
   - Default: "C:\Program Files (x86)\Google\Chrome\Application\"
 
 ### Warning
-###### Close Google Chrome before run this
+- Close Google Chrome before run this
